@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.row{
+	display: flex;
+}
+.col-sm-1,.col-sm-2,.col-sm-4,.col-sm-12{
+    padding: 10px;
+}
